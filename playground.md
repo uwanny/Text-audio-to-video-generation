@@ -1,3 +1,7 @@
+# TA2V: Text-Audio Guided Video Generation
+This is the reimplementation and extension of Text&Audio-guided Video Maker (TAgVM) model for TA2V task base on (https://github.com/Minglu58/TA2V). Since we pay more attention to music performance video generation, given both the text prompt and the audio signals as input, the model is able to synthesize motion or gesture of the players moving with corresponding melody and rhythm.
+
+
 ## Sampling Procedure
 ### Sample Short Music Performance Videos
 - `gpt_text_ckpt`: path to GPT checkpoint
