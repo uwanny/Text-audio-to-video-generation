@@ -6,14 +6,13 @@ This is the reimplementation and extension of Text&Audio-guided Video Maker (TAg
 ## Examples
 ### Music Performance Videos
 
-![generation_stage2_5_db_39_Jerusalem_26_28](https://github.com/Minglu58/TA2V/assets/95404453/4fa0bf08-1ef4-4011-b8e1-5e519fd811d7)
-![1_vn_44_K515_15_5](https://github.com/Minglu58/TA2V/assets/95404453/f2d520e8-c544-4a4b-bb18-3313a689d280)
-![2_tpt_42_Arioso_79_12](https://github.com/Minglu58/TA2V/assets/95404453/32fd7a40-9c4d-4329-9b20-7946c116b298)
-![1_fl_40_Miserere_13_47](https://github.com/Minglu58/TA2V/assets/95404453/9893d660-7656-4440-9528-679f80b3d468)
+![generation_stage2_5_db_39_Jerusalem_96_21](https://github.com/uwanny/11785Project/blob/main/result_URMP/results/generation_stage2_5_db_39_Jerusalem_96_21.gif)
+![generation_stage2_3_va_44_K515_136_16](https://github.com/uwanny/11785Project/blob/main/result_URMP/results/generation_stage2_3_va_44_K515_136_16.gif)
+
 
 ### Landscape Videos
-![generation_stage2_fire_crackling_136_1_44](https://github.com/uwanny/11785Project/blob/main/results_landscape/17_tav_landscape/fake_stage2/generation_stage2_fire_crackling_136_1_44.mp4)
-![generation_stage2_splashing_water_141_2_0](https://github.com/uwanny/11785Project/blob/main/results_landscape/17_tav_landscape/fake_stage2/generation_stage2_splashing_water_141_2_0.mp4)
+![generation_stage2_fire_crackling_136_1_44](https://github.com/uwanny/11785Project/blob/main/results_landscape/generation_stage2_fire_crackling_136_1_44.gif)
+![generation_stage2_squishing_water_134_6_45](https://github.com/uwanny/11785Project/blob/main/results_landscape/generation_stage2_squishing_water_134_6_45.gif)
 
 
 ## Sampling Procedure
