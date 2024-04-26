@@ -1,0 +1,351 @@
+Logging to ./results/openai-2024-03-19-17-14-09-970231
+creating samples using text...
+creating video editor...
+final_distance:  51.5686
+final_distance:  51.1633
+final_distance:  50.8472
+final_distance:  50.7864
+final_distance:  50.8715
+creating samples using text...
+creating video editor...
+final_distance:  51.3577
+final_distance:  51.0386
+final_distance:  50.8443
+final_distance:  50.9730
+final_distance:  50.6602
+creating samples using text...
+creating video editor...
+final_distance:  51.7414
+final_distance:  52.1111
+final_distance:  51.9017
+final_distance:  51.2946
+final_distance:  50.7832
+creating samples using text...
+creating video editor...
+final_distance:  51.7632
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.4331
+final_distance:  50.8752
+final_distance:  50.9605
+final_distance:  50.9684
+final_distance:  50.9429
+creating samples using text...
+creating video editor...
+final_distance:  51.8476
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.3221
+final_distance:  51.1261
+final_distance:  50.8626
+final_distance:  51.0068
+final_distance:  50.8273
+creating samples using text...
+creating video editor...
+final_distance:  51.6455
+final_distance:  50.9409
+final_distance:  50.9578
+final_distance:  51.0861
+final_distance:  50.7936
+creating samples using text...
+creating video editor...
+final_distance:  51.8353
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.4181
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.7653
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.3524
+final_distance:  51.1152
+final_distance:  51.2166
+final_distance:  51.3426
+final_distance:  51.1432
+creating samples using text...
+creating video editor...
+final_distance:  51.2018
+final_distance:  50.9279
+final_distance:  50.7053
+final_distance:  50.5554
+final_distance:  50.7205
+creating samples using text...
+creating video editor...
+final_distance:  51.7308
+final_distance:  51.9568
+final_distance:  52.1975
+final_distance:  51.9734
+final_distance:  51.4582
+creating samples using text...
+creating video editor...
+final_distance:  51.7692
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.7371
+final_distance:  52.1249
+final_distance:  51.8501
+final_distance:  51.8088
+final_distance:  51.3918
+creating samples using text...
+creating video editor...
+final_distance:  51.2057
+final_distance:  50.7484
+final_distance:  50.9356
+final_distance:  50.5876
+final_distance:  50.6662
+creating samples using text...
+creating video editor...
+final_distance:  51.4175
+final_distance:  50.5747
+final_distance:  50.5494
+final_distance:  50.1782
+final_distance:  50.1138
+creating samples using text...
+creating video editor...
+final_distance:  51.4221
+final_distance:  50.8640
+final_distance:  50.8827
+final_distance:  50.4639
+final_distance:  50.4871
+creating samples using text...
+creating video editor...
+final_distance:  51.8393
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.3396
+final_distance:  51.3958
+final_distance:  51.1135
+final_distance:  51.0882
+final_distance:  50.6158
+creating samples using text...
+creating video editor...
+final_distance:  50.8843
+final_distance:  50.7747
+final_distance:  50.7422
+final_distance:  50.8724
+final_distance:  50.8495
+creating samples using text...
+creating video editor...
+final_distance:  51.8057
+final_distance:  51.6757
+final_distance:  51.6684
+final_distance:  51.5134
+final_distance:  51.2681
+creating samples using text...
+creating video editor...
+final_distance:  51.7608
+final_distance:  51.6908
+final_distance:  51.7045
+final_distance:  51.6417
+final_distance:  51.4475
+creating samples using text...
+creating video editor...
+final_distance:  51.7647
+final_distance:  51.2439
+final_distance:  51.1409
+final_distance:  51.4554
+final_distance:  51.1906
+creating samples using text...
+creating video editor...
+final_distance:  51.7798
+final_distance:  51.3590
+final_distance:  51.8228
+final_distance:  51.7431
+final_distance:  51.0638
+creating samples using text...
+creating video editor...
+final_distance:  51.6570
+final_distance:  50.4447
+final_distance:  50.7157
+final_distance:  50.8838
+final_distance:  50.4795
+creating samples using text...
+creating video editor...
+final_distance:  51.8456
+final_distance:  51.7364
+final_distance:  51.5738
+final_distance:  51.3354
+final_distance:  51.3223
+creating samples using text...
+creating video editor...
+final_distance:  51.6484
+final_distance:  51.3328
+final_distance:  51.2694
+final_distance:  51.2410
+final_distance:  50.7641
+creating samples using text...
+creating video editor...
+final_distance:  51.5884
+final_distance:  50.9104
+final_distance:  50.8517
+final_distance:  50.6361
+final_distance:  50.5890
+creating samples using text...
+creating video editor...
+final_distance:  51.3334
+final_distance:  51.2419
+final_distance:  51.2716
+final_distance:  51.1964
+final_distance:  51.0679
+creating samples using text...
+creating video editor...
+final_distance:  51.6061
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+final_distance:  nan
+creating samples using text...
+creating video editor...
+final_distance:  51.2044
+final_distance:  50.7506
+final_distance:  50.7873
+final_distance:  50.6738
+final_distance:  50.7902
+creating samples using text...
+creating video editor...
+final_distance:  51.6405
+final_distance:  50.6672
+final_distance:  51.0019
+final_distance:  50.7810
+final_distance:  50.7651
+creating samples using text...
+creating video editor...
+final_distance:  51.2014
+final_distance:  51.1298
+final_distance:  50.8767
+final_distance:  50.8552
+final_distance:  50.4428
+creating samples using text...
+creating video editor...
+final_distance:  51.6632
+final_distance:  51.4982
+final_distance:  51.4376
+final_distance:  51.3372
+final_distance:  51.0569
+creating samples using text...
+creating video editor...
+final_distance:  51.3468
+final_distance:  51.2930
+final_distance:  51.1432
+final_distance:  51.3600
+final_distance:  50.9150
+creating samples using text...
+creating video editor...
+final_distance:  51.8307
+final_distance:  51.9932
+final_distance:  51.6674
+final_distance:  51.4529
+final_distance:  51.2244
+creating samples using text...
+creating video editor...
+final_distance:  51.7432
+final_distance:  52.0193
+final_distance:  52.2652
+final_distance:  51.8539
+final_distance:  51.5248
+creating samples using text...
+creating video editor...
+final_distance:  51.2010
+final_distance:  50.5335
+final_distance:  50.6493
+final_distance:  50.4421
+final_distance:  50.5833
+creating samples using text...
+creating video editor...
+final_distance:  51.8764
+final_distance:  50.9661
+final_distance:  50.8451
+final_distance:  50.9216
+final_distance:  50.9275
+creating samples using text...
+creating video editor...
+final_distance:  51.5964
+final_distance:  51.4491
+final_distance:  51.2559
+final_distance:  51.3150
+final_distance:  50.8946
+creating samples using text...
+creating video editor...
+final_distance:  51.2027
+final_distance:  50.8005
+final_distance:  50.8229
+final_distance:  50.7709
+final_distance:  50.6419
+creating samples using text...
+creating video editor...
+final_distance:  51.6575
+final_distance:  50.7156
+final_distance:  51.5153
+final_distance:  51.5014
+final_distance:  51.2135
+creating samples using text...
+creating video editor...
+final_distance:  51.6621
+final_distance:  51.5988
+final_distance:  51.7522
+final_distance:  51.2170
+final_distance:  50.9468
+creating samples using text...
+creating video editor...
+final_distance:  51.6601
+final_distance:  50.9331
+final_distance:  51.6614
+final_distance:  51.7410
+final_distance:  51.3401
+creating samples using text...
+creating video editor...
+final_distance:  51.6586
+final_distance:  50.9550
+final_distance:  51.0350
+final_distance:  51.2727
+final_distance:  50.9476
+creating samples using text...
+creating video editor...
+final_distance:  51.2127
+final_distance:  50.6970
+final_distance:  50.9641
+final_distance:  50.7208
+final_distance:  50.5092
+creating samples using text...
+creating video editor...
+final_distance:  51.7728
+final_distance:  51.6186
+final_distance:  52.2189
+final_distance:  52.2627
+final_distance:  51.7703
+creating samples using text...
+creating video editor...
+final_distance:  51.7373
+final_distance:  51.8900
+final_distance:  51.6573
+final_distance:  51.4056
+final_distance:  51.1890
