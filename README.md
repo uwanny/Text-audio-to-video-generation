@@ -29,7 +29,8 @@ This is the official implement of our proposed Text&Audio-guided Video Maker (TA
 conda create -n tav python==3.9
 conda activate tav
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.6 -c pytorch -c conda-forge
-pip install pytorch-lightning==1.5.4 einops ftfy h5py imageio regex scikit-image scikit-video tqdm lpips blobfile mpi4py opencv-python-headless kornia termcolor pytorch-ignite visdom piq joblib av==10.0.0 matplotlib ffmpeg==4.2.2 pillow==9.5.0
+pip install pytorch-lightning==1.5.4 einops ftfy h5py imageio regex scikit-image scikit-video tqdm lpips blobfile opencv-python-headless kornia termcolor pytorch-ignite visdom piq joblib av==10.0.0 matplotlib ffmpeg pillow==9.5.0
+conda mpi4py  # sometimes pip not work so using conda
 pip install git+https://github.com/openai/CLIP.git wav2clip transformers
 ```
 2. Create a `saved_ckpts` folder to download pretrained checkpoints.
@@ -91,11 +92,11 @@ python scripts/sample_tav.py --gpt_text_ckpt saved_ckpts/best_checkpoint-val_tex
 - `txt_folder`: text folder name, default: `txt`
 * **CLIP audio score**
 ```
-python tools/clip_score/clip_audio.py --exp_tag 1_tav_URMP --audio_folder audio --video_folder fake_stage2 --audio_emb_model audioclip
+python tools/clip_score/clip_audio.py --exp_tag 17_tav_landscape --audio_folder audio --video_folder fake_stage2 --audio_emb_model audioclip
 ```
 * **CLIP text score**
 ```
-python tools/clip_score/clip_text.py --exp_tag 1_tav_URMP --txt_folder txt --video_folder fake_stage2 --batch_size 5
+python tools/clip_score/clip_text.py --exp_tag 17_tav_URMP --txt_folder txt --video_folder fake_stage2 --batch_size 5
 ```
 
 - `real_folder`: ground-truth video folder name, default: `real`
@@ -103,7 +104,7 @@ python tools/clip_score/clip_text.py --exp_tag 1_tav_URMP --txt_folder txt --vid
 - `mode`: mode to calculate FVD, FID scores, choices: `full`, `size`
 * **FVD**
 ```
-python tools/tf_fvd/fvd.py --exp_tag 1_tav_URMP --real_folder real --fake_folder fake_stage2 --mode full
+python tools/tf_fvd/fvd.py --exp_tag 17_tav_URMP --real_folder real --fake2_folder fake_stage2 --mode full
 ```
 * **FID**
 ```
