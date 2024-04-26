@@ -1,9 +1,0 @@
-Logging to ./results/openai-2024-04-21-03-45-14-467265
-creating samples using text...
-creating video editor...
-final_distance:  52.4603
-final_distance:  52.0643
-final_distance:  51.8223
-final_distance:  51.5670
-final_distance:  51.2228
-creating samples using text...
