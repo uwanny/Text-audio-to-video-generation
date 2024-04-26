@@ -1,5 +1,19 @@
 # TA2V: Text-Audio Guided Video Generation
-This is the reimplementation and extension of Text&Audio-guided Video Maker (TAgVM) model for TA2V task base on (https://github.com/Minglu58/TA2V). Since we pay more attention to music performance video generation, given both the text prompt and the audio signals as input, the model is able to synthesize motion or gesture of the players moving with corresponding melody and rhythm.
+This is the reimplementation and extension of Text&Audio-guided Video Maker (TAgVM) model for TA2V task base on (https://github.com/Minglu58/TA2V). We pay more attention to model inference and performance evaluation.
+
+<img width="1150" alt="Model Inference workflow" src="https://github.com/uwanny/11785Project/blob/main/figure/project.png">
+
+## Examples
+### Music Performance Videos
+
+![generation_stage2_5_db_39_Jerusalem_26_28](https://github.com/Minglu58/TA2V/assets/95404453/4fa0bf08-1ef4-4011-b8e1-5e519fd811d7)
+![1_vn_44_K515_15_5](https://github.com/Minglu58/TA2V/assets/95404453/f2d520e8-c544-4a4b-bb18-3313a689d280)
+![2_tpt_42_Arioso_79_12](https://github.com/Minglu58/TA2V/assets/95404453/32fd7a40-9c4d-4329-9b20-7946c116b298)
+![1_fl_40_Miserere_13_47](https://github.com/Minglu58/TA2V/assets/95404453/9893d660-7656-4440-9528-679f80b3d468)
+
+### Landscape Videos
+![generation_stage2_fire_crackling_136_1_44](https://github.com/uwanny/11785Project/blob/main/results_landscape/17_tav_landscape/fake_stage2/generation_stage2_fire_crackling_136_1_44.mp4)
+![generation_stage2_splashing_water_141_2_0](https://github.com/uwanny/11785Project/blob/main/results_landscape/17_tav_landscape/fake_stage2/generation_stage2_splashing_water_141_2_0.mp4)
 
 
 ## Sampling Procedure
