@@ -49,7 +49,7 @@ python scripts/sample_tav.py --gpt_text_ckpt /home/ubuntu/saved_ckpts/URMP-VAT_G
 ### Calculate Evaluation Metrics
 - `exp_tag`: name of result folder, which is under `results` folder
 - `audio_folder`: audio folder name, default: `audio`
-- `video_folder`: video folder name, choices: `fake_stage1`, `fake_stage2`, `real`
+- `fake2_video_folder`: video folder name fake stage2, default: `fake_stage2`
 - `txt_folder`: text folder name, default: `txt`
 * **CLIP audio score**
 ```
@@ -61,7 +61,8 @@ python tools/clip_score/clip_text.py --exp_tag 17_tav_landscape --txt_folder txt
 ```
 
 - `real_folder`: ground-truth video folder name, default: `real`
-- `fake_folder`: generated video folder name, choices: `fake_stage1`, `fake_stage2`
+- `fake2_folder`: generated stage 2 video folder name, default: `fake_stage2`
+- `fake1_folder`: generated stage 1 video folder name, default: `fake_stage1`
 - `mode`: mode to calculate FVD, FID scores, choices: `full`, `size`
 * **FVD**
 ```
